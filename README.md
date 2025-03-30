@@ -38,7 +38,7 @@
             <p>Interactive lessons on electric fields, magnetic fields, and electromagnetic waves</p>
             <ul>
                 <li><a href="electromagnetism/electric-fields.html">Electric Fields</a></li>
-                <li><a href="electromagnetism/magnetic-fields.html">Magnetic Fields</a></li>
+                <li><a href="https://drive.google.com/file/d/1symhUo-9kkgZlWgXMD1YB_dyUFbhH-yb/view?usp=sharing">Gov gr</a></li>
                 <li><a href="electromagnetism/electromagnetic-waves.html">Electromagnetic Waves</a></li>
             </ul>
         </section>
