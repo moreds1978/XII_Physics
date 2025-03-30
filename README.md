@@ -21,7 +21,7 @@
                 <li><a href="#resources">Resources</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Magnetic">magnetic effect of electric current</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
@@ -163,13 +163,13 @@
                 <li><a href="mechanics/statics.html">Statics</a></li>
             </ul>
         </section>
-        <section id="Current">
-            <h2>Current Electricity</h2>
+        <section id="Magnetic">
+            <h2>magnetic effect of electric current</h2>
             <p>Interactive lessons on kinematics, dynamics, and statics</p>
             <ul>
-                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
-                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
-                <li><a href="mechanics/statics.html">Statics</a></li>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Gavanometre</a></li>
+                <li><a href="mechanics/dynamics.html">cyclotron</a></li>
+                <li><a href="mechanics/statics.html">van dr graff</a></li>
             </ul>
         </section>
     </main>
