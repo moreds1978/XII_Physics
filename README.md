@@ -45,7 +45,7 @@
             <h2>Mechanical Properties of fluid</h2>
             <p>fluid pressure, Surface Tension, and Viscosity</p>
             <ul>
-                <li><a href="electromagnetism/electric-fields.html">Electric Fields</a></li>
+                <li><a href="https://drive.google.com/file/d/1Y5_nMZfIzQHASJr6iTlaxdoo3XorCKB-/view?usp=sharing">Electric Fields</a></li>
                 <li><a href="https://drive.google.com/file/d/1symhUo-9kkgZlWgXMD1YB_dyUFbhH-yb/view?usp=sharing">Gov gr</a></li>
                 <li><a href="electromagnetism/electromagnetic-waves.html">Electromagnetic Waves</a></li>
             </ul>
