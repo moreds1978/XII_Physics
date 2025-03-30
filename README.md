@@ -24,10 +24,7 @@
                 <li><a href="#Magnetic">magnetic effect of electric current</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
+                
             </ul>
         </nav>
     </header>
