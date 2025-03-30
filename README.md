@@ -97,7 +97,7 @@
             <h2>Current Electricity</h2>
             <p>Interactive lessons on kinematics, dynamics, and statics</p>
             <ul>
-                <li><a href="https://drive.google.com/file/d/11H5a7thfOi2fKeMpkquvTVhWqIy-CLio/view?usp=sharing)">Kinematics</a></li>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
                 <li><a href="mechanics/dynamics.html">Dynamics</a></li>
                 <li><a href="mechanics/statics.html">Statics</a></li>
             </ul>
