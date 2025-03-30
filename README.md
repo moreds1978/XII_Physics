@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#Rotational pDynamics">Rotational Dynamics</a></li>
+                <li><a href="#Rotational Dynamics">Rotational Dynamics</a></li>
                 <li><a href="#electromagnetism">Electromagnetism</a></li>
                 <li><a href="#thermodynamics">Thermodynamics</a></li>
                 <li><a href="#practice-problems">Practice Problems</a></li>
@@ -20,11 +20,12 @@
                 <li><a href="#community">Community</a></li>
                 <li><a href="#resources">Resources</a></li>
                 <li><a href="#about">About</a></li>
+                <li><a href="#Rotational Dynamics">Current Electricity</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section id="Rotational pDynamics">
+        <section id="Rotational Dynamics">
             <h2>Rotational Dynamics</h2>
             <p>Interactive lessons on kinematics, dynamics, and statics</p>
             <ul>
