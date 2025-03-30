@@ -102,6 +102,69 @@
                 <li><a href="mechanics/statics.html">Statics</a></li>
             </ul>
         </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
+        <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://docs.google.com/document/d/1s5I77ACzBsa416L6cVqZprQyTwoSCxMv/edit?usp=sharing&ouid=116323725794489611530&rtpof=true&sd=true">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
+        </section>
     </main>
     <footer>
         <p>&copy; 2024 Physics Study Material. All rights reserved.</p>
