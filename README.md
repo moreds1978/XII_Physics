@@ -20,7 +20,7 @@
                 <li><a href="#community">Community</a></li>
                 <li><a href="#resources">Resources</a></li>
                 <li><a href="#about">About</a></li>
-                <li><a href="#Rotational Dynamics">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
             </ul>
         </nav>
     </header>
@@ -92,6 +92,15 @@
         <section id="about">
             <h2>About</h2>
             <p>This website is dedicated to providing comprehensive physics study materials for students and enthusiasts. Our mission is to make physics accessible and engaging through interactive lessons, practice problems, and community support.</p>
+        </section>
+         <section id="Current">
+            <h2>Current Electricity</h2>
+            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/11H5a7thfOi2fKeMpkquvTVhWqIy-CLio/view?usp=sharing)">Kinematics</a></li>
+                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
+                <li><a href="mechanics/statics.html">Statics</a></li>
+            </ul>
         </section>
     </main>
     <footer>
