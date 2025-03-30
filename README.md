@@ -13,7 +13,7 @@
         <nav>
             <ul>
                 <li><a href="#Rotational Dynamics">Rotational Dynamics</a></li>
-                <li><a href="#electromagnetism">Electromagnetism</a></li>
+                <li><a href="#Mechanical Properties of fluid">Mechanical Properties of fluid</a></li>
                 <li><a href="#thermodynamics">Thermodynamics</a></li>
                 <li><a href="#practice-problems">Practice Problems</a></li>
                 <li><a href="#video-library">Video Library</a></li>
@@ -41,9 +41,9 @@
                 <li><a href="mechanics/statics.html">Statics</a></li>
             </ul>
         </section>
-        <section id="electromagnetism">
-            <h2>Electromagnetism</h2>
-            <p>Interactive lessons on electric fields, magnetic fields, and electromagnetic waves</p>
+        <section id="Mechanical Properties of fluid">
+            <h2>Mechanical Properties of fluid</h2>
+            <p>fluid pressure, Surface Tension, and Viscosity</p>
             <ul>
                 <li><a href="electromagnetism/electric-fields.html">Electric Fields</a></li>
                 <li><a href="https://drive.google.com/file/d/1symhUo-9kkgZlWgXMD1YB_dyUFbhH-yb/view?usp=sharing">Gov gr</a></li>
