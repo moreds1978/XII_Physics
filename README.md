@@ -21,6 +21,13 @@
                 <li><a href="#resources">Resources</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
+                <li><a href="#Current">Current Electricity</a></li>
             </ul>
         </nav>
     </header>
