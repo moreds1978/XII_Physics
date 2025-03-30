@@ -24,7 +24,7 @@
         </nav>
     </header>
     <main>
-        <section id="mechanics">
+        <section id="Rotational Dynamics">
             <h2>Mechanics</h2>
             <p>Interactive lessons on kinematics, dynamics, and statics</p>
             <ul>
