@@ -28,7 +28,7 @@
             <h2>Mechanics</h2>
             <p>Interactive lessons on kinematics, dynamics, and statics</p>
             <ul>
-                <li><a href="https://mech.poriyaan.in/topic/kinematic-link--or-element--31828/">Kinematics</a></li>
+                <li><a href="[https://mech.poriyaan.in/topic/kinematic-link--or-element--31828/](https://drive.google.com/file/d/11H5a7thfOi2fKeMpkquvTVhWqIy-CLio/view?usp=sharing)">Kinematics</a></li>
                 <li><a href="mechanics/dynamics.html">Dynamics</a></li>
                 <li><a href="mechanics/statics.html">Statics</a></li>
             </ul>
