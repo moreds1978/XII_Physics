@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#mechanics">Mechanics</a></li>
+                <li><a href="#mechanics">Rotational Dynamics</a></li>
                 <li><a href="#electromagnetism">Electromagnetism</a></li>
                 <li><a href="#thermodynamics">Thermodynamics</a></li>
                 <li><a href="#practice-problems">Practice Problems</a></li>
