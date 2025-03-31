@@ -16,6 +16,7 @@
                 <li><a href="#Question Bank XII">XII Question Bank</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
+                <li><a href="#CH03 Kinetic Theory OF Gases">XII CH03 Kinetic Theory OF Gases</a></li>
             </ul>
         </nav>
     </header>
@@ -51,6 +52,15 @@
                 <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1VSP94fWrZdPsIFFP1I-BPG5bsOHxhXY8/view?usp=sharing">PPT Notes</a></li>
+            </ul>
+        </section>
+        <section id="CH03 Kinetic Theory OF Gases">
+            <h2>XII chp 02</h2>
+            <p>Sub Topics:- Gas Pressure, Laws</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1Z820G5joC74F_RY4KVL7s9wZprxtI9_h/view?usp=sharing">PPT Notes</a></li>
             </ul>
         </section>
         </main>
