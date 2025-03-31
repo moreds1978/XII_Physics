@@ -13,7 +13,6 @@
         <nav>
             <ul>
                 <li><a href="#Rotational Dynamics">Rotational Dynamics</a></li>
-                
             </ul>
         </nav>
     </header>
@@ -27,8 +26,7 @@
                 <li><a href="mechanics/statics.html">Statics</a></li>
             </ul>
         </section>
-       
-    </main>
+        </main>
     <footer>
         <p>&copy; 2024 Physics Study Material. All rights reserved.</p>
         <ul>
