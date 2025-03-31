@@ -19,6 +19,7 @@
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
                 <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
+                <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
             </ul>
         </nav>
     </header>
@@ -78,6 +79,15 @@
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH05 Oscillation">
+            <h2>XII CHP 05 Oscillation</h2>
+            <p>Sub Topics:- S.H.M. Simple Pendulum </p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1SSeqGNSg8e_DhP8tfuKZFSyMnueHd-nd/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
