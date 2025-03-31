@@ -27,6 +27,7 @@
                 <li><a href="#CH10 Magnetic Fields due to Electric Current">XII chp 10 Magnetic Fields due to Electric Current</a></li>
                 <li><a href="#CH11 Magnetic Material">XII chp 11 Magnetic Material</a></li>
                 <li><a href="#CH12 Electromagnetic Induction">XII chp 12 Electromagnetic Induction</a></li>
+                <li><a href="#CH13 AC circuits">XII chp 13 AC circuits</a></li>
             </ul>
         </nav>
     </header>
@@ -160,6 +161,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/1wM-klMTP9bXpuxEVGauTzOaJw5R1ev5C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1dxS6x-_VvM6qd3B2iocHAARsQYtvzVeB/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/179IzCAMxcd8zYjmPk5zCUh-x5gzJgw75/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH13 AC circuits">
+            <h2>XII CHP 13 AC circuits</h2>
+            <p>Sub Topics:-AC generator,Different types of AC circuits,Power in AC circuit,LC oscillations,Electric resonance</p>
+            <ul>
+                <li><a href="">Theory Notes</a></li>
+                <li><a href="">Ques Bank With Solution</a></li>
+                <li><a href="">PPT Notes</a></li>
            </ul>
         </section>
         </main>
