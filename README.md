@@ -12,12 +12,20 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#Question Bank">Question Bank</a></li>
+                <li><a href="#Question Bank XI">XI Question Bank</a></li>
+                <li><a href="#Question Bank XII">XII Question Bank</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section id="Question Bank">
+        <section id="Question Bank XI">
+            <h2>XI Science</h2>
+            <p>Physics Topic wise Question Bank</p>
+            <ul>
+                <li><a href="">XI Science</a></li>
+            </ul>
+        </section>
+        <section id="Question Bank XII">
             <h2>XII Science</h2>
             <p>Physics Topic wise Question Bank</p>
             <ul>
