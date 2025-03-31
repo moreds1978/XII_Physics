@@ -22,7 +22,6 @@
             <p>Physics Topic wise Question Bank</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Science</a></li>
-                
             </ul>
         </section>
         </main>
