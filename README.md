@@ -24,6 +24,7 @@
                 <li><a href="#CH07 Wave Optics">XII chp 07 Wave Optics</a></li>
                 <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
                 <li><a href="#CH09 Current Electricity">XII chp 09 Current Electricity</a></li>
+                <li><a href="#CH10 Magnetic Fields due to Electric Current">XII chp 10 Magnetic Fields due to Electric Current</a></li>
             </ul>
         </nav>
     </header>
@@ -130,6 +131,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1RPBtceG5CNNdJia6U_-qlKr4DJ-u6qPV/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH10 Magnetic Fields due to Electric Current">
+            <h2>XII CHP 10 Magnetic Fields due to Electric Current</h2>
+            <p>Sub Topics:-Cyclotron Motion,Magnetic force on a wire carrying current,Magnetic Field due to a current</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1m50pFvJhL69UN17s_ncXeXDlRiXY80lI/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
