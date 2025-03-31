@@ -29,6 +29,7 @@
                 <li><a href="#CH12 Electromagnetic Induction">XII chp 12 Electromagnetic Induction</a></li>
                 <li><a href="#CH13 AC circuits">XII chp 13 AC circuits</a></li>
                 <li><a href="#CH14 DUAL NATURE OF RADIATION AND MATTER">XII chp 14 DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="#CH15 Structure of Atoms and Nuclei">XII chp 15 Structure of Atoms and Nuclei</a></li>
             </ul>
         </nav>
     </header>
@@ -180,6 +181,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/1nl6gNJhr9KJh9Xd_c5x8j7WyR8nMeTtI/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Aecc6eYOez0yPawQLS_sDh81JDGkpBQ4/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1x3q2xWSf4gFKKo4vPDp8cmEfqdsBt_92/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH15 Structure of Atoms and Nuclei">
+            <h2>XII CHP 15 Structure of Atoms and Nuclei</h2>
+            <p>Sub Topics:-GEIGER – MARSDEN EXPERIMENT.ENERGY OF THE ELECTRONS,De Broglie’s Explanation,Nuclear Binding Energy,Radioactive Decays</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1QwAnMYgnqABsXZ2v24q_lkzQPOU73NYT/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1d73xZE_xaL04tEm6jIlHtbo1FCj6QhGz/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1rYUAJ8HBjSLWsbRSmv1ZjE1vKdQ6hgYc/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
