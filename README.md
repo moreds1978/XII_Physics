@@ -167,9 +167,9 @@ Series and Parallel</p>
             <h2>XII CHP 13 AC circuits</h2>
             <p>Sub Topics:-AC generator,Different types of AC circuits,Power in AC circuit,LC oscillations,Electric resonance</p>
             <ul>
-                <li><a href="">Theory Notes</a></li>
-                <li><a href="">Ques Bank With Solution</a></li>
-                <li><a href="">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/18LqdirX04GoFKHPOBBswnR_MiEcZGWeY/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1DEG9yNhvxc5XaZdyYiWLLwq8ulNeRToa/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1ZHOzFRKzActNOKJMRgfje2NiRL63hHuU/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
