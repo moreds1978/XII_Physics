@@ -27,14 +27,6 @@
             </ul>
         </section>
         </main>
-    <footer>
-        <p>&copy; 2024 Physics Study Material. All rights reserved.</p>
-        <ul>
-            <li><a href="#privacy-policy">Privacy Policy</a></li>
-            <li><a href="#terms-of-service">Terms of Service</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </footer>
-</body>
+    </body>
 
 </html>
