@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="#Question Bank XI">XI Question Bank</a></li>
                 <li><a href="#Question Bank XII">XII Question Bank</a></li>
-                <li><a href="#CH01 Rotational Dynamics">XII chp 01</a></li>
+                <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
             </ul>
         </nav>
     </header>
