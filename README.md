@@ -26,6 +26,7 @@
                 <li><a href="#CH09 Current Electricity">XII chp 09 Current Electricity</a></li>
                 <li><a href="#CH10 Magnetic Fields due to Electric Current">XII chp 10 Magnetic Fields due to Electric Current</a></li>
                 <li><a href="#CH11 Magnetic Material">XII chp 11 Magnetic Material</a></li>
+                <li><a href="#CH12 Electromagnetic Induction">XII chp 12 Electromagnetic Induction</a></li>
             </ul>
         </nav>
     </header>
@@ -150,6 +151,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/1nTyjkyn3lrKGD2ffgezveRs5UmtARIaa/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1bUtTND1A8491A5HUpXyyaip5b7Nw_h7L/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/18dDt_arBPStLf2sEGGU6QnazG55UF6u0/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH12 Electromagnetic Induction">
+            <h2>XII CHP 12 Electromagnetic Induction</h2>
+            <p>Sub Topics:-FARADAY’S LAWS OF EMI,MOTIONAL EMF,GENERATORS,INDUCTION AND ENERGY TRANSFER,TRANSFORMER</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1wM-klMTP9bXpuxEVGauTzOaJw5R1ev5C/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1dxS6x-_VvM6qd3B2iocHAARsQYtvzVeB/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/179IzCAMxcd8zYjmPk5zCUh-x5gzJgw75/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
