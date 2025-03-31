@@ -36,7 +36,7 @@
                 <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Science</a></li>
             </ul>
         </section>
-        <section id="CH 01 Rotational Dynamics">
+        <section id="CH01 Rotational Dynamics">
             <h2>XII chp 01</h2>
             <p>Sub Topics:- Circular Motion, Rotational Motion</p>
             <ul>
@@ -45,7 +45,7 @@
                 <li><a href="https://drive.google.com/file/d/10JL7Lfm5xtRW5uqWA79u_ijnAA7AaFac/view?usp=sharing">PPT Notes</a></li>
             </ul>
         </section>
-        <section id="CH 02 Mechanical Properties of Fluids">
+        <section id="CH02 Mechanical Properties of Fluids">
             <h2>XII chp 02</h2>
             <p>Sub Topics:- Fluid Pressure, Surface Tension, Fluid Motion</p>
             <ul>
@@ -54,7 +54,7 @@
                 <li><a href="https://drive.google.com/file/d/1VSP94fWrZdPsIFFP1I-BPG5bsOHxhXY8/view?usp=sharing">PPT Notes</a></li>
             </ul>
         </section>
-        <section id="CH 03 Kinetic Theory OF Gases">
+        <section id="CH03 Kinetic Theory OF Gases">
             <h2>XII chp 03</h2>
             <p>Sub Topics:- Gas Pressure, Laws</p>
             <ul>
