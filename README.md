@@ -23,6 +23,7 @@
                 <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
                 <li><a href="#CH07 Wave Optics">XII chp 07 Wave Optics</a></li>
                 <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
+                <li><a href="#CH09 Current Electricity">XII chp 09 Current Electricity</a></li>
             </ul>
         </nav>
     </header>
@@ -120,6 +121,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/14wq1tOYyr2TKOrNBvckDaaV0Y679D7sS/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH09 Current Electricity">
+            <h2>XII CHP 09 Current Electricity</h2>
+            <p>Sub Topics:-Kirchhoff’s Laws of Electrical Network,Wheatstone Bridge,Potentiometer,Galvanometer</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1RPBtceG5CNNdJia6U_-qlKr4DJ-u6qPV/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
