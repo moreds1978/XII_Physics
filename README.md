@@ -72,7 +72,7 @@
            </ul>
         </section>
         <section id="CH04 Thermodynamics">
-            <h2>XII chp 04 Thermodynamics</h2>
+            <h2>XII CHP 04 Thermodynamics</h2>
             <p>Sub Topics:- Gas Pressure, Laws</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
