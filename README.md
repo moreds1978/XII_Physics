@@ -55,7 +55,7 @@
             </ul>
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
-            <h2>XII chp 02</h2>
+            <h2>XII chp 03</h2>
             <p>Sub Topics:- Gas Pressure, Laws</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
