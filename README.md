@@ -57,6 +57,10 @@
                 <li><a href="https://drive.google.com/file/d/1XfR_-dY57w5UxIxPIJ2PLKxrYj1HxIA8/view?usp=sharing">Model Ans.Practice Paper 02</a></li>
                 <li><a href="https://drive.google.com/file/d/11TnyJtkqV9dJy2uf6QytbwKwPVvjvzfF/view?usp=sharing">Practice Paper 03</a></li>
                 <li><a href="https://drive.google.com/file/d/1PoA_8GjbXCEdVeK69tZppEXZZyHrP7qi/view?usp=sharing">Model Ans.Practice Paper 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1nlQKo91_adrbhsYFhYGR-GY_y8wXsJq4/view?usp=sharing">Practice Paper 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1nQYkycaMK008jS0nWxStAWJ-SypA1ocR/view?usp=sharing">Model Ans.Practice Paper 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1Lu9_z7MmUyvuLyCc4Y4lXTA8zu-Xk78-/view?usp=sharing">Practice Paper 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">Model Ans.Practice Paper 05</a></li>
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
