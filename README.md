@@ -25,6 +25,7 @@
                 <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
                 <li><a href="#CH09 Current Electricity">XII chp 09 Current Electricity</a></li>
                 <li><a href="#CH10 Magnetic Fields due to Electric Current">XII chp 10 Magnetic Fields due to Electric Current</a></li>
+                <li><a href="#CH11 Magnetic Material">XII chp 11 Magnetic Material</a></li>
             </ul>
         </nav>
     </header>
@@ -140,6 +141,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1m50pFvJhL69UN17s_ncXeXDlRiXY80lI/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH11 Magnetic Material">
+            <h2>XII CHP 11 Magnetic Material</h2>
+            <p>Sub Topics:-ORIGIN OF MAGNETISM IN MATERIALS,MAGNETIZATION AND MAGNETIC INTENSITY,MAGNETIC PROPERTIES OF MATERIALS,HYSTERESIS</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1nTyjkyn3lrKGD2ffgezveRs5UmtARIaa/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1bUtTND1A8491A5HUpXyyaip5b7Nw_h7L/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/18dDt_arBPStLf2sEGGU6QnazG55UF6u0/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
