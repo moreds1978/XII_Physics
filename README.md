@@ -22,6 +22,7 @@
                 <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
                 <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
                 <li><a href="#CH07 Wave Optics">XII chp 07 Wave Optics</a></li>
+                <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
             </ul>
         </nav>
     </header>
@@ -108,6 +109,17 @@
                 <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1BZgyHuplGQhoTf3UHPLEPBnACgwGK7jz/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH08 Electrostatics">
+            <h2>XII CHP 08 Electrostatics</h2>
+            <p>Sub Topics:- Applications of Gauss’ Law,Electric Potential and Potential Energy,Capacitors and capacitance, Combination of Capacitors in
+
+Series and Parallel</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/14wq1tOYyr2TKOrNBvckDaaV0Y679D7sS/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
