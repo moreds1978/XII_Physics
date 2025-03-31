@@ -13,21 +13,7 @@
         <nav>
             <ul>
                 <li><a href="#Rotational Dynamics">Rotational Dynamics</a></li>
-                <li><a href="#Mechanical Properties of fluid">Mechanical Properties of fluid</a></li>
-                <li><a href="#thermodynamics">Thermodynamics</a></li>
-                <li><a href="#practice-problems">Practice Problems</a></li>
-                <li><a href="#video-library">Video Library</a></li>
-                <li><a href="#community">Community</a></li>
-                <li><a href="#resources">Resources</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Magnetic">magnetic effect of electric current</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
-                <li><a href="#Current">Current Electricity</a></li>
+                
             </ul>
         </nav>
     </header>
