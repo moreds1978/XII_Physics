@@ -20,6 +20,7 @@
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
                 <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
                 <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
+                <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
             </ul>
         </nav>
     </header>
@@ -88,6 +89,15 @@
                 <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1SSeqGNSg8e_DhP8tfuKZFSyMnueHd-nd/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH06 Superposition Of Waves">
+            <h2>XII CHP 06 Superposition Of Waves</h2>
+            <p>Sub Topics:- Progressive waves,Stationary Waves,Beats </p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1urBHPSgONsYETpdKX3l-taF-z9UX6u7C/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/12LBBr1hNx9FcPLnwW87n3wqWDXeX7NaO/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1D8ZtqHFv2K8DnLy2t6QOuvC2jcF7XpMt/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
