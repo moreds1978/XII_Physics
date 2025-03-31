@@ -25,7 +25,6 @@
     <main>
         <section id="Question Bank XI">
             <h2>XI Science</h2>
-            <p>Physics Topic wise Question Bank</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1Q3PVflQipZgRCmupWnzEuxreeXXUY7Td/view?usp=sharing">XI Science01</a></li>
                 <li><a href="https://drive.google.com/file/d/1bg92ksFB56C40yUquop93jpMxWMg4K9L/view?usp=sharing">XI Science02</a></li>
@@ -33,14 +32,12 @@
         </section>
         <section id="Question Bank XII">
             <h2>XII Science</h2>
-            <p>Physics Topic wise Question Bank</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Science</a></li>
             </ul>
         </section>
         <section id="pyq">
             <h2>Previous Question Paper</h2>
-            <p>Sub Topics:- Gas Pressure, Laws</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -83,7 +80,6 @@
                 <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
-         
         </main>
     </body>
 
