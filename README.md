@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#Question Bank">XII Science</a></li>
+                <li><a href="#Question Bank">Question Bank</a></li>
             </ul>
         </nav>
     </header>
