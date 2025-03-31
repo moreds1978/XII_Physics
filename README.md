@@ -52,7 +52,7 @@
             <h2>Previous Question Paper</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">Model Ans.Practice Paper 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
