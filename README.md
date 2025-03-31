@@ -12,18 +12,17 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#Rotational Dynamics">Rotational Dynamics</a></li>
+                <li><a href="#Question Bank">XII Science</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section id="Rotational Dynamics">
-            <h2>Rotational Dynamics</h2>
-            <p>Interactive lessons on kinematics, dynamics, and statics</p>
+        <section id="Question Bank">
+            <h2>XII Science</h2>
+            <p>Physics Topic wise Question Bank</p>
             <ul>
-                <li><a href="https://drive.google.com/file/d/11H5a7thfOi2fKeMpkquvTVhWqIy-CLio/view?usp=sharing)">Kinematics</a></li>
-                <li><a href="mechanics/dynamics.html">Dynamics</a></li>
-                <li><a href="mechanics/statics.html">Statics</a></li>
+                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Science</a></li>
+                
             </ul>
         </section>
         </main>
