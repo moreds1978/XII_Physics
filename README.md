@@ -38,6 +38,15 @@
                 <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Science</a></li>
             </ul>
         </section>
+        <section id="pyq">
+            <h2>Previous Question Paper</h2>
+            <p>Sub Topics:- Gas Pressure, Laws</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
         <section id="CH01 Rotational Dynamics">
             <h2>XII chp 01</h2>
             <p>Sub Topics:- Circular Motion, Rotational Motion</p>
@@ -74,15 +83,7 @@
                 <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
-         <section id="pyq">
-            <h2>Previous Question Paper</h2>
-            <p>Sub Topics:- Gas Pressure, Laws</p>
-            <ul>
-                <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
-           </ul>
-        </section>
+         
         </main>
     </body>
 
