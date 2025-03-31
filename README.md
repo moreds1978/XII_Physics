@@ -28,6 +28,7 @@
                 <li><a href="#CH11 Magnetic Material">XII chp 11 Magnetic Material</a></li>
                 <li><a href="#CH12 Electromagnetic Induction">XII chp 12 Electromagnetic Induction</a></li>
                 <li><a href="#CH13 AC circuits">XII chp 13 AC circuits</a></li>
+                <li><a href="#CH14 DUAL NATURE OF RADIATION AND MATTER">XII chp 14 DUAL NATURE OF RADIATION AND MATTER</a></li>
             </ul>
         </nav>
     </header>
@@ -170,6 +171,15 @@ Series and Parallel</p>
                 <li><a href="https://drive.google.com/file/d/18LqdirX04GoFKHPOBBswnR_MiEcZGWeY/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1DEG9yNhvxc5XaZdyYiWLLwq8ulNeRToa/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZHOzFRKzActNOKJMRgfje2NiRL63hHuU/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="CH14 DUAL NATURE OF RADIATION AND MATTER">
+            <h2>XII CHP 14 DUAL NATURE OF RADIATION AND MATTER</h2>
+            <p>Sub Topics:-THE PHOTOELECTRIC EFFECT,Einstein’s Postulate,PHOTO CELL,DE BROGLIE HYPOTHESIS</p>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1nl6gNJhr9KJh9Xd_c5x8j7WyR8nMeTtI/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1Aecc6eYOez0yPawQLS_sDh81JDGkpBQ4/view?usp=sharing">Ques Bank With Solution</a></li>
+                <li><a href="https://drive.google.com/file/d/1x3q2xWSf4gFKKo4vPDp8cmEfqdsBt_92/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         </main>
