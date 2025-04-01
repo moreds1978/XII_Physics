@@ -12,7 +12,6 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#Question Bank XII">XII Question Bank</a></li>
                 <li><a href="#pyq">Previous Question Paper</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
@@ -34,15 +33,10 @@
         </nav>
     </header>
     <main>
-        <section id="Question Bank XII">
-            <h2>XII Science</h2>
-            <ul>
-                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Science</a></li>
-            </ul>
-        </section>
         <section id="pyq">
             <h2>Previous Question Paper</h2>
             <ul>
+                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Question Bank</a></li>
                 <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">Model Ans.Practice Paper 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1wmBqJwWHtgZb61EA5GuVFYSF78Vp2cpx/view?usp=sharing">Practice Paper 02</a></li>
