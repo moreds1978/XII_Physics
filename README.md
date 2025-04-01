@@ -66,7 +66,6 @@
         </section>
         <section id="CH01 Rotational Dynamics">
             <h2>XII CH01 Rotational Dynamics</h2>
-            <p>Sub Topics:- Circular Motion, Rotational Motion</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1j7kWkxkpEsvW8RRSYJgICzGs7BTTi8Mk/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -75,7 +74,6 @@
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
             <h2>XII CH02 Mechanical Properties of Fluids</h2>
-            <p>Sub Topics:- Fluid Pressure, Surface Tension, Fluid Motion</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -84,7 +82,6 @@
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
             <h2>XII CH03 Kinetic Theory OF Gases</h2>
-            <p>Sub Topics:- Gas Pressure, Laws</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -93,7 +90,6 @@
         </section>
         <section id="CH04 Thermodynamics">
             <h2>XII CHP 04 Thermodynamics</h2>
-            <p>Sub Topics:- Gas Pressure, Laws</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -102,7 +98,6 @@
         </section>
         <section id="CH05 Oscillation">
             <h2>XII CHP 05 Oscillation</h2>
-            <p>Sub Topics:- S.H.M. Simple Pendulum </p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -111,7 +106,6 @@
         </section>
         <section id="CH06 Superposition Of Waves">
             <h2>XII CHP 06 Superposition Of Waves</h2>
-            <p>Sub Topics:- Progressive waves,Stationary Waves,Beats </p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1urBHPSgONsYETpdKX3l-taF-z9UX6u7C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/12LBBr1hNx9FcPLnwW87n3wqWDXeX7NaO/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -120,7 +114,6 @@
         </section>
         <section id="CH07 Wave Optics">
             <h2>XII CHP 07 Wave Optics</h2>
-            <p>Sub Topics:- Huygens Wave Theory, Interferance and diffraction</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -129,9 +122,6 @@
         </section>
         <section id="CH08 Electrostatics">
             <h2>XII CHP 08 Electrostatics</h2>
-            <p>Sub Topics:- Applications of Gauss’ Law,Electric Potential and Potential Energy,Capacitors and capacitance, Combination of Capacitors in
-
-Series and Parallel</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -140,7 +130,6 @@ Series and Parallel</p>
         </section>
         <section id="CH09 Current Electricity">
             <h2>XII CHP 09 Current Electricity</h2>
-            <p>Sub Topics:-Kirchhoff’s Laws of Electrical Network,Wheatstone Bridge,Potentiometer,Galvanometer</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -149,7 +138,6 @@ Series and Parallel</p>
         </section>
         <section id="CH10 Magnetic Fields due to Electric Current">
             <h2>XII CHP 10 Magnetic Fields due to Electric Current</h2>
-            <p>Sub Topics:-Cyclotron Motion,Magnetic force on a wire carrying current,Magnetic Field due to a current</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -158,7 +146,6 @@ Series and Parallel</p>
         </section>
         <section id="CH11 Magnetic Material">
             <h2>XII CHP 11 Magnetic Material</h2>
-            <p>Sub Topics:-ORIGIN OF MAGNETISM IN MATERIALS,MAGNETIZATION AND MAGNETIC INTENSITY,MAGNETIC PROPERTIES OF MATERIALS,HYSTERESIS</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1nTyjkyn3lrKGD2ffgezveRs5UmtARIaa/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1bUtTND1A8491A5HUpXyyaip5b7Nw_h7L/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -167,7 +154,6 @@ Series and Parallel</p>
         </section>
         <section id="CH12 Electromagnetic Induction">
             <h2>XII CHP 12 Electromagnetic Induction</h2>
-            <p>Sub Topics:-FARADAY’S LAWS OF EMI,MOTIONAL EMF,GENERATORS,INDUCTION AND ENERGY TRANSFER,TRANSFORMER</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1wM-klMTP9bXpuxEVGauTzOaJw5R1ev5C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1dxS6x-_VvM6qd3B2iocHAARsQYtvzVeB/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -176,7 +162,6 @@ Series and Parallel</p>
         </section>
         <section id="CH13 AC circuits">
             <h2>XII CHP 13 AC circuits</h2>
-            <p>Sub Topics:-AC generator,Different types of AC circuits,Power in AC circuit,LC oscillations,Electric resonance</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/18LqdirX04GoFKHPOBBswnR_MiEcZGWeY/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1DEG9yNhvxc5XaZdyYiWLLwq8ulNeRToa/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -185,7 +170,6 @@ Series and Parallel</p>
         </section>
         <section id="CH14 DUAL NATURE OF RADIATION AND MATTER">
             <h2>XII CHP 14 DUAL NATURE OF RADIATION AND MATTER</h2>
-            <p>Sub Topics:-THE PHOTOELECTRIC EFFECT,Einstein’s Postulate,PHOTO CELL,DE BROGLIE HYPOTHESIS</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1nl6gNJhr9KJh9Xd_c5x8j7WyR8nMeTtI/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Aecc6eYOez0yPawQLS_sDh81JDGkpBQ4/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -194,7 +178,6 @@ Series and Parallel</p>
         </section>
         <section id="CH15 Structure of Atoms and Nuclei">
             <h2>XII CHP 15 Structure of Atoms and Nuclei</h2>
-            <p>Sub Topics:-GEIGER – MARSDEN EXPERIMENT.ENERGY OF THE ELECTRONS,De Broglie’s Explanation,Nuclear Binding Energy,Radioactive Decays</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1QwAnMYgnqABsXZ2v24q_lkzQPOU73NYT/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1d73xZE_xaL04tEm6jIlHtbo1FCj6QhGz/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -203,7 +186,6 @@ Series and Parallel</p>
         </section>
          <section id="CH16 Semiconductor Devices">
             <h2>XII CHP 16 Semiconductor Devices</h2>
-            <p>Sub Topics:-Rectifier,Zener Diode,Bipolar Junction Transistor,LOGIC GATES</p>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1vv8uInIe0Eex8kbE69x6PPmdINizzFKR/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1PG-HUftyTkDwf2BUr30n4dBK3OyqIrB0/view?usp=sharing">Ques Bank With Solution</a></li>
