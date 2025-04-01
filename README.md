@@ -65,7 +65,7 @@
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
-            <h2>XII CH01 Rotational Dynamics</h2>
+            <h2>XII CHP 01 Rotational Dynamics</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1j7kWkxkpEsvW8RRSYJgICzGs7BTTi8Mk/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -73,7 +73,7 @@
             </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
-            <h2>XII CH02 Mechanical Properties of Fluids</h2>
+            <h2>XII CHP 02 Mechanical Properties of Fluids</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -81,7 +81,7 @@
             </ul>
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
-            <h2>XII CH03 Kinetic Theory OF Gases</h2>
+            <h2>XII CHP 03 Kinetic Theory OF Gases</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
