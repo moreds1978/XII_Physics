@@ -11,8 +11,7 @@
 <body>
     <header>
         <nav>
-            <ul>
-                <li><a href="#Question Bank XI">XI Question Bank</a></li>  
+            <ul> 
                 <li><a href="#Question Bank XII">XII Question Bank</a></li>
                 <li><a href="#pyq">Previous Question Paper</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
@@ -35,13 +34,6 @@
         </nav>
     </header>
     <main>
-        <section id="Question Bank XI">
-            <h2>XI Science</h2>
-            <ul>
-                <li><a href="https://drive.google.com/file/d/1Q3PVflQipZgRCmupWnzEuxreeXXUY7Td/view?usp=sharing">XI Science01</a></li>
-                <li><a href="https://drive.google.com/file/d/1bg92ksFB56C40yUquop93jpMxWMg4K9L/view?usp=sharing">XI Science02</a></li>
-            </ul>
-        </section>
         <section id="Question Bank XII">
             <h2>XII Science</h2>
             <ul>
