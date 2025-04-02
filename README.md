@@ -48,6 +48,12 @@
                 <li><a href="https://drive.google.com/file/d/1Lu9_z7MmUyvuLyCc4Y4lXTA8zu-Xk78-/view?usp=sharing">Practice Paper 05</a></li>
                 <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">Model Ans.Practice Paper 05</a></li>
                 <li><a href="https://drive.google.com/file/d/1N1fW_1_c44-oQGPSAUJaeB8BIrQ0XLuO/view?usp=sharing">Model Feb 2025 Board Ques. Paper with Model Ans</a></li>
+                <li><a href="https://drive.google.com/file/d/15Vm66r_jLvUJz8CuHgMkc5DyLoV_JZs5/view?usp=sharing">XII Board Physics Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1334wVlEqMjrrIgO3l-p_txnT4IzU8bjO/view?usp=sharing">XII Board Maths Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1MF1P1wJsE14pP8GS6HZ1hKXNbL49b6Zz/view?usp=sharing">XII Board Geography Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1_JTshitbLoq5GOWrWJpHYdLMA_YTds2V/view?usp=sharing">XII Board English Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1xhLpZlHZtUSRJ-bDF_JPXNsJSHMgJXce/view?usp=sharing">XII Board Chemistry Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1X0oBO8IZDbxmuLRPRehsBCGuBmNMUmGx/view?usp=sharing">XII Board Biology Question Bank</a></li>
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
