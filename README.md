@@ -29,6 +29,7 @@
                 <li><a href="#CH14 DUAL NATURE OF RADIATION AND MATTER">XII chp 14 DUAL NATURE OF RADIATION AND MATTER</a></li>
                 <li><a href="#CH15 Structure of Atoms and Nuclei">XII chp 15 Structure of Atoms and Nuclei</a></li>
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
+                <li><a href="#Physics Hand Book">Physics Hand Book</a></li>
             </ul>
         </nav>
     </header>
@@ -182,6 +183,12 @@
                 <li><a href="https://drive.google.com/file/d/1vv8uInIe0Eex8kbE69x6PPmdINizzFKR/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1PG-HUftyTkDwf2BUr30n4dBK3OyqIrB0/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1E1hqmdC57BnYPDQp5a_wzVB_DN2FKyEL/view?usp=sharing">PPT Notes</a></li>
+           </ul>
+        </section>
+        <section id="Physics Hand Book">
+            <h2>Physics Hand Book</h2>
+            <ul>
+                <li><a href="https://drive.google.com/file/d/1_YbJUFnosJjM-jNW4e7h8Zjmwu7P64eX/view?usp=sharing">Physics Hand Book</a></li> 
            </ul>
         </section>
         </main>
