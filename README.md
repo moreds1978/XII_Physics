@@ -115,6 +115,8 @@
                 <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1BZgyHuplGQhoTf3UHPLEPBnACgwGK7jz/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://forms.gle/VbN6MqiFX7d7Ay2r5">MCQ TEST 01</a></li>
+                <li><a href="https://forms.gle/VsLgiovipkZxK88n9">MCQ TEST 02</a></li>
            </ul>
         </section>
         <section id="CH08 Electrostatics">
