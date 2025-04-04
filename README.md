@@ -60,7 +60,7 @@
         <section id="CH01 Rotational Dynamics">
             <h2>XII CHP 01 Rotational Dynamics</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1j7kWkxkpEsvW8RRSYJgICzGs7BTTi8Mk/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/10JL7Lfm5xtRW5uqWA79u_ijnAA7AaFac/view?usp=sharing">PPT Notes</a></li>
             </ul>
