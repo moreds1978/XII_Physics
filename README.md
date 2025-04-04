@@ -64,6 +64,7 @@
                 <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/10JL7Lfm5xtRW5uqWA79u_ijnAA7AaFac/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
             </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
