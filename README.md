@@ -30,6 +30,7 @@
                 <li><a href="#CH15 Structure of Atoms and Nuclei">XII chp 15 Structure of Atoms and Nuclei</a></li>
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
                 <li><a href="#Physics Hand Book">Physics Hand Book</a></li>
+                <li><a href="#MHT CET TEST LINK">MHT CET</a></li>
             </ul>
         </nav>
     </header>
@@ -196,6 +197,12 @@
             <h2>Physics Hand Book</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1_YbJUFnosJjM-jNW4e7h8Zjmwu7P64eX/view?usp=sharing">Physics Hand Book</a></li> 
+           </ul>
+        </section>
+        <section id="MHT CET TEST LINK">
+            <h2>MHT CET</h2>
+            <ul>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3anPJ9rphDZxxQCciqZFVLJFuf4H6O--j57Nn8k4iLOUePg/viewform?usp=sharing">CYCLE TEST 02</a></li> 
            </ul>
         </section>
         </main>
