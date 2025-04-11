@@ -196,7 +196,10 @@
         <section id="Physics Hand Book">
             <h2>Physics Hand Book</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1_YbJUFnosJjM-jNW4e7h8Zjmwu7P64eX/view?usp=sharing">Physics Hand Book</a></li> 
+                <li><a href="https://drive.google.com/file/d/1_YbJUFnosJjM-jNW4e7h8Zjmwu7P64eX/view?usp=sharing">ALLEN Physics Hand Book</a></li>
+                <li><a href="https://drive.google.com/file/d/14X8FRVGLjRLvv0MTdzB9YHsOEhPK7vMT/view?usp=sharing">Physics Exampler</a></li>
+                <li><a href="https://drive.google.com/file/d/1HJEMHC50esUx2iOYHJFZgAMyxPQxFhw-/view?usp=sharing">Errorless Physics Book</a></li>
+                <li><a href="https://drive.google.com/file/d/1hh7WCoq0DYGW48FNAOWnqSzrU-LF4hbO/view?usp=sharing">Arihant Physics Hand Book</a></li>
            </ul>
         </section>
         <section id="MHT CET TEST LINK">
