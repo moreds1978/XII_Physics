@@ -56,6 +56,9 @@
                 <li><a href="https://drive.google.com/file/d/1_JTshitbLoq5GOWrWJpHYdLMA_YTds2V/view?usp=sharing">XII Board English Question Bank</a></li>
                 <li><a href="https://drive.google.com/file/d/1xhLpZlHZtUSRJ-bDF_JPXNsJSHMgJXce/view?usp=sharing">XII Board Chemistry Question Bank</a></li>
                 <li><a href="https://drive.google.com/file/d/1X0oBO8IZDbxmuLRPRehsBCGuBmNMUmGx/view?usp=sharing">XII Board Biology Question Bank</a></li>
+                <li><a href="https://drive.google.com/file/d/1R9oUPL0VklZQMgQ1RK-jUNz6ZWbghLta/view?usp=sharing">Board Question Paper 2021</a></li>
+                <li><a href="https://drive.google.com/file/d/1AlPeIp7s1rNAac-de0LE_AOXleM0Momd/view?usp=sharing">Model july 2023 Board Ques. Paper with Model Ans</a></li>
+                <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">Model july 2024 Board Ques. Paper with Model Ans</a></li>
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
