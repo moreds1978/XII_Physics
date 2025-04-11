@@ -83,7 +83,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1Z820G5joC74F_RY4KVL7s9wZprxtI9_h/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         <section id="CH04 Thermodynamics">
@@ -91,7 +91,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1bguk3hUJl7YPl0ZzpcOIcty_nUcbG6xz/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         <section id="CH05 Oscillation">
@@ -99,7 +99,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1SSeqGNSg8e_DhP8tfuKZFSyMnueHd-nd/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         <section id="CH06 Superposition Of Waves">
@@ -107,7 +107,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1urBHPSgONsYETpdKX3l-taF-z9UX6u7C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/12LBBr1hNx9FcPLnwW87n3wqWDXeX7NaO/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1D8ZtqHFv2K8DnLy2t6QOuvC2jcF7XpMt/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1PfPeugfxonrIabnq2GeXspV3M4xWavsl/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         <section id="CH07 Wave Optics">
