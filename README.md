@@ -213,6 +213,8 @@
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSem9Wp-F-CnL0Fk0M7uwz1z03rP1y96VLHabCDe45g8kwt8IQ/viewform?usp=sharing">CYCLE TEST 03 CHP 09 TO 12</a></li> 
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeMVFIZdJJucsatEPabF60UkS7GrVmLOqzWIV6-PBuGP7SmMQ/viewform?usp=sharing">CYCLE TEST 04 CHP 13 TO 16</a></li> 
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRyPHeUjIDT8ynfrAGRr7HYn6g0zSwCFoKDVufojansGiCTA/viewform?usp=sharing">FULL SYLLABUS TEST 01</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScel6qxY3kRXNndSGLtj9G8Dah7rN934MvIG97DQ8MzGQZ6Aw/viewform?usp=sharing">FULL SYLLABUS TEST 02</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdvLK-C9YgPzxU5eoC0VZG1sgmw1ARx4T_-ufVyOMCiAm5P9Q/viewform?usp=sharing">FULL SYLLABUS TEST 03</a></li>
            </ul>
         </section>
         </main>
