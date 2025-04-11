@@ -75,7 +75,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1VSP94fWrZdPsIFFP1I-BPG5bsOHxhXY8/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">PPT Notes</a></li>
             </ul>
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
