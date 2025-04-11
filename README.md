@@ -115,7 +115,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1BZgyHuplGQhoTf3UHPLEPBnACgwGK7jz/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1mIk0znpYxgXMlSi0uH4P5W2rqIf4sC4I/view?usp=sharing">PPT Notes</a></li>
                 <li><a href="https://forms.gle/VbN6MqiFX7d7Ay2r5">MCQ TEST 01</a></li>
                 <li><a href="https://forms.gle/VsLgiovipkZxK88n9">MCQ TEST 02</a></li>
                 <li><a href="https://forms.gle/z5QXhVPEFAXLgbTn8">MCQ TEST 03</a></li>
@@ -126,7 +126,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/14wq1tOYyr2TKOrNBvckDaaV0Y679D7sS/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1s4oMlwWG40iM4GApZyUaf4X2RyqhRo-7/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         <section id="CH09 Current Electricity">
@@ -134,7 +134,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1RPBtceG5CNNdJia6U_-qlKr4DJ-u6qPV/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1JakqqBFYlTUs8XUQQ4eMsmhu5lMcUvWo/view?usp=sharing">PPT Notes</a></li>
            </ul>
         </section>
         <section id="CH10 Magnetic Fields due to Electric Current">
