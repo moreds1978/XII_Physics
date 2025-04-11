@@ -63,7 +63,7 @@
             <ul>
                 <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/10JL7Lfm5xtRW5uqWA79u_ijnAA7AaFac/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">PPT Notes</a></li>
                 <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
                 <li><a href="https://forms.gle/N7J9xG6HLSdcXXkd7">MCQ TEST 02</a></li>
                 <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MCQ TEST 03</a></li>
