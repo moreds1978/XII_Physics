@@ -126,6 +126,8 @@
                 <li><a href="https://forms.gle/VbN6MqiFX7d7Ay2r5">MCQ TEST 01</a></li>
                 <li><a href="https://forms.gle/VsLgiovipkZxK88n9">MCQ TEST 02</a></li>
                 <li><a href="https://forms.gle/z5QXhVPEFAXLgbTn8">MCQ TEST 03</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNuZu3wLmn5Qpk6oMvszNQW5HirfkBiprvZLKFUEOX-nyAEA/viewform?usp=sharing">MCQ TEST 04</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8E88TcE2JO40xiDIaleB4GcBu8Ri9Nj_yXSLdO1PKjq2--w/viewform?usp=sharing">MCQ TEST 05</a></li>
            </ul>
         </section>
         <section id="CH08 Electrostatics">
