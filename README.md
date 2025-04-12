@@ -72,6 +72,9 @@
                 <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MCQ TEST 03</a></li>
                 <li><a href="https://forms.gle/74hdAv7yKTB7MWos9">MCQ TEST 04</a></li>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJ8Bje07c3ySxMaDNCNuHDtb4cuG39GQxF_passhQJ5zT6w/viewform?usp=sharing">MCQ TEST 05</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gTzYvWzPZ5noUoLHPkHrBEceRYHRhK-uo1f-_WipuH9S5g/viewform?usp=sharing">MCQ TEST 06</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDSN8lt-JKrkaIdqK3-2XL56YrAz9dbrwdj2oBa4kNvqkIJg/viewform?usp=sharing">MCQ TEST 07</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MCQ TEST 08</a></li>
             </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
