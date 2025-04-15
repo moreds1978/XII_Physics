@@ -31,6 +31,7 @@
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
                 <li><a href="#Physics Hand Book">Physics Hand Book</a></li>
                 <li><a href="#MHT CET TEST LINK">MHT CET SECTION</a></li>
+                <li><a href="#NEET TEST LINK">NEET SECTION</a></li>
             </ul>
         </nav>
     </header>
@@ -221,6 +222,12 @@
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRyPHeUjIDT8ynfrAGRr7HYn6g0zSwCFoKDVufojansGiCTA/viewform?usp=sharing">FULL SYLLABUS TEST 01</a></li>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScel6qxY3kRXNndSGLtj9G8Dah7rN934MvIG97DQ8MzGQZ6Aw/viewform?usp=sharing">FULL SYLLABUS TEST 02</a></li>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdvLK-C9YgPzxU5eoC0VZG1sgmw1ARx4T_-ufVyOMCiAm5P9Q/viewform?usp=sharing">FULL SYLLABUS TEST 03</a></li>
+           </ul>
+        </section>
+        <section id="NEET TEST LINK">
+            <h2>NEET TEST SERIES</h2>
+            <ul>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXuRzpm0xnJMAYlW6YFLypQ425j7Aptdj91krblibz-HABTw/viewform?usp=sharing"> TEST 01 UNIT AND MEASUREMENT</a></li>
            </ul>
         </section>
         </main>
