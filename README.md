@@ -228,7 +228,7 @@
             <h2>NEET TEST SERIES</h2>
             <ul>
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXuRzpm0xnJMAYlW6YFLypQ425j7Aptdj91krblibz-HABTw/viewform?usp=sharing"> TEST 01 UNIT AND MEASUREMENT</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9a-9fTZ8l7n_9EyVYmN5tA-ikI4aqVYDO_uWWA5lOdstUUg/viewform?usp=sharing">Test 02 1D, 2D,Gavitation, Mathematical Method </a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9a-9fTZ8l7n_9EyVYmN5tA-ikI4aqVYDO_uWWA5lOdstUUg/viewform?usp=sharing">TEST 02 1D, 2D,Gavitation, Mathematical Method </a></li>
            </ul>
         </section>
         </main>
